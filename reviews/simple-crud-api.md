@@ -27,4 +27,5 @@ Build your first CRUD API in 45 minutes or less!
 
 ## Suggestions: What I would like to be added/changed
 * Optional Step: Create lambda from a docker container -- since we're using the UI, have a provided docker container instead of copy/pasting code would have been useful for many I'd guess
-* For all workshops: I would have liked to see CLI equivalent steps, now that there is a cloudshell option. 
+* For all workshops: I would have liked to see CLI equivalent steps, now that there is a cloudshell option.
+* Bonus Points: Include a clean up script or CLI commands for the 6 UI clean up steps. 
